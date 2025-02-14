@@ -183,7 +183,7 @@ The project is hosted on GitHub. You can find the repository here:
 ## Video Walkthrough
 
 For a detailed walkthrough of the project, please watch the video:  
-[Video Walkthrough Link](https://youtube.com)
+[Video Walkthrough Link](https://youtu.be/F368H5qF-uM)
 
 ## License
 

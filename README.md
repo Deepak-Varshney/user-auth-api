@@ -46,7 +46,7 @@ This project is a RESTful API built with **Express.js** and **MongoDB** for hand
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/user-auth-api.git
+   git clone https://github.com/Deepak-Varshney/user-auth-api
    cd user-auth-api
    ```
 
@@ -178,7 +178,7 @@ You can test the API endpoints using [Postman](https://www.postman.com/):
 ## GitHub Repository
 
 The project is hosted on GitHub. You can find the repository here:  
-[https://github.com/Deepak-Varshney/user-auth-api](https://github.com/yourusername/user-auth-api)
+[https://github.com/Deepak-Varshney/user-auth-api]
 
 ## Video Walkthrough
 

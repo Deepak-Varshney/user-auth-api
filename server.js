@@ -17,7 +17,6 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-// app.use('/',(req, res)=>res.send("Server is running with no errors"))
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
 
